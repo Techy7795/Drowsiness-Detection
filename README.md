@@ -57,8 +57,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - [imutils](https://github.com/jrosebr1/imutils) for image processing utilities
 - [pygame](https://www.pygame.org/) for playing sound alerts
 - [OpenCV](https://opencv.org/) for computer vision and image processing
-
-## Author
-
-[Techy7795](https://github.com/Techy7795)
-
